@@ -4,5 +4,5 @@
 #include <stdlib.h>
 
 int main() {
-    // Implementação do programa principal (main)
+
 }
